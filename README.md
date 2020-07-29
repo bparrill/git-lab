@@ -8,3 +8,9 @@
    - `git commit -m "message"` - Commits with message
 - `git status` - see the status of the files in the repository
 - `git log` - check the log file
+   - `git log --oneline` - shortened version of log
+- `git diff` - shows difference between current state and last known git state
+   - `--staged` - used when file is in staging area
+   - `HEAD~#` - compares with # of commits previous to HEAD
+   - `<hash>` - compares with the commit given by hash
+- `HEAD` - where you are currently looking (ie, active files)
