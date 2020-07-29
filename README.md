@@ -1,4 +1,5 @@
 # Git Lab
+## Basics
 - `git config --global user.name "<name>"` - add name to configuration
 - `git config --global user.email "<email>"`- add email to configuration
 - `git init`: create a repository in the current folder
