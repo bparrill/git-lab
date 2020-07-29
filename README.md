@@ -1,6 +1,6 @@
 # Git Lab
-- `git config --global user.name "Bill Parrill"` - add name to configuration
-- `git config --global user.email "bparrill@pm.me"`- add email to configuration
+- `git config --global user.name "<name>"` - add name to configuration
+- `git config --global user.email "<email>"`- add email to configuration
 - `git init`: create a repository in the current folder
 - `git add <filename>` - adds file to staging area
 - `git commit` - commits the file to the master branch, opens message file
