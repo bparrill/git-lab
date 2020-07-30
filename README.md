@@ -14,3 +14,10 @@
    - `HEAD~#` - compares with # of commits previous to HEAD
    - `<hash>` - compares with the commit given by hash
 - `HEAD` - where you are currently looking (ie, active files)
+
+## Branches
+- `git branch <branchname>` - creates a new branch
+- `git branch -a` - list branches
+- `git switch <branchname>` - switch to branch
+   - `git checkout ...` - for older versions
+
